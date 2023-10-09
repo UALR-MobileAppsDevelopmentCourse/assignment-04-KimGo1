@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MyApp</string>
-    <string name="app_description">This is the English description.</string>
+    <string name="app_name">MiApp</string>
+    <string name="app_description">Esta es la descripción en español</string>
     <string name="lesson_learnt_label">lesson learnt</string>
     <string name="lesson_learnt_button_text">Lesson Learned</string>
     <string name="country_description_default">Country Description</string>
