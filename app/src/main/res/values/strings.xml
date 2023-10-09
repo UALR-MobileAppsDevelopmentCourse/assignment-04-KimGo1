@@ -1,9 +1,10 @@
 <resources>
-    <string name="app_name">MyApp</string>
+    <string name="app_name" translatable="false">Geography Lesson</string>
     <string name="app_description">This is the English description.</string>
     <string name="lesson_learnt_label">lesson learnt</string>
-    <string name="lesson_learnt_button_text">Lesson Learned</string>
+    <string name="lesson_learnt_button_text">Lesson Learnt</string>
     <string name="country_description_default">Country Description</string>
     <string name="country_title_default">Country Title</string>
+    <string name="button_text">lesson learnt</string>
     <string name="congrats_text">Congratulations. Now, enjoy your free time.</string>
 </resources>
