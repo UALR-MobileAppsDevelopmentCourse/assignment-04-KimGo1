@@ -7,4 +7,5 @@
     <string name="country_title_default">Country Title</string>
     <string name="button_text">lesson learnt</string>
     <string name="congrats_text">Congratulations. Now, enjoy your free time.</string>
+    <string name="text_view_text">Country Name</string>
 </resources>
