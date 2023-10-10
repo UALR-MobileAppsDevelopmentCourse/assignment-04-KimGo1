@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name" translatable="false">Lección de Geografía</string>
-    <string name="app_description">Esta es la descripción en español</string>
+    <string name="app_description">This is the Spanish description</string>
     <string name="lesson_learnt_label">lección aprendida</string>
     <string name="lesson_learnt_button_text">Lesson Learnt</string>
-    <string name="country_description_default">Country Description</string>
-    <string name="country_title_default">Country Title</string>
+    <string name="country_description_default">Spain is a country mostly located in Europe. Its continental European territory is situated on the Iberian Peninsula. Its territory also includes two archipelagoes: the Canary Islands off the coast of Africa, and the Balearic Islands in the Mediterranean Sea. The African enclaves of Ceuta, Melilla, and Peñón de Vélez de la Gomera make Spain the only European country to have a physical border with an African country (Morocco).</string>
+    <string name="country_title_default">Spain</string>
     <string name="congrats_text">Congratulations. Now, enjoy your free time.</string>
-    <string name="country_description_es">This is the Spanish descriptiono.</string>
     <string name="button_text">lesson learnt</string>
-    <string name="text_view_text">Country Name</string>
+    <string name="text_view_text">Spain</string>
 </resources>

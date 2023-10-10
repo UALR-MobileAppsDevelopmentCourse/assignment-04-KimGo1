@@ -57,7 +57,7 @@
             style="@style/AppTheme.Title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/country_name"
+            android:text="@string/country_title_default"
             android:textColor="@color/button_color_clicked"
             app:layout_constraintEnd_toEndOf="@+id/country_image"
             app:layout_constraintHorizontal_chainStyle="packed"
@@ -71,7 +71,7 @@
             android:layout_marginTop="28dp"
             android:layout_marginEnd="60dp"
             android:scaleType="fitEnd"
-            android:src="@drawable/ic_country_bitmap"
+            android:src="@drawable/ic_country"
             app:layout_constraintEnd_toStartOf="@+id/guideline"
             app:layout_constraintTop_toBottomOf="@+id/country_title_text" />
 

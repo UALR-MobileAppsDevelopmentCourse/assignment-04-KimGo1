@@ -29,7 +29,7 @@
             app:layout_constraintTop_toBottomOf="@+id/country_description_text" />
 
         <ImageView
-            android:id="@+id/svg_image_view"
+            android:id="@+id/usa_image_view"
             android:layout_width="@dimen/image_view_width"
             android:layout_height="@dimen/image_view_height"
             android:layout_marginBottom="@dimen/image_margin"
@@ -43,7 +43,9 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="1.0"
-            app:layout_constraintVertical_chainStyle="packed" />
+            app:layout_constraintVertical_chainStyle="packed"
+            android:src="@drawable/usa_bitmap"
+            tools:layout_editor_absoluteY="104dp" />
 
         <TextView
             android:id="@+id/country_description_text"
@@ -67,13 +69,8 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_chainStyle="packed"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/country_image"   />
+            />
 
-        <ImageView
-            android:id="@+id/usa_image_view"
-            android:layout_width="@dimen/image_view_width"
-            android:layout_height="@dimen/image_view_height"
-            android:src="@drawable/usa_bitmap"  />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
